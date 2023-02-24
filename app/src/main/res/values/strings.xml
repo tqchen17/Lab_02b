@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Lab 02</string>
+    <string name="yessir"><b><big>Be<sup>st</sup> App In</big></b> \n
+        <font face="georgia" color="hex_color">Northern VA</font>
+    </string>
+    <string name="starter">Valid %1$s: %2$s</string>
+    <string-array name="tvShows">
+        <item>The Boys</item>
+        <item>The Office</item>
+        <item>The Big Bang Theory</item>
+        <item>Everybody Loves Raymond</item>
+        <item>Jeopardy</item>
+        <item>Shark Tank</item>
+    </string-array>
+
+    <string-array name="movies">
+        <item>Titanic</item>
+        <item>The Social Network</item>
+        <item>Interstellar</item>
+        <item>The Matrix</item>
+        <item>Green Book</item>
+        <item>Crazy Rich Asians</item>
+    </string-array>
+</resources>
